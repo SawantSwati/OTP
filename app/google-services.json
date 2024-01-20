@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994872271466",
+    "project_id": "otpfirbase-96d41",
+    "storage_bucket": "otpfirbase-96d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994872271466:android:0ddfce92c682fdba682013",
+        "android_client_info": {
+          "package_name": "com.example.otpfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994872271466-momvht532j792csbs3tdvg45148dunj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpfirbase",
+            "certificate_hash": "68eada79c5678f31cf5824018dd7796c8226ae0d"
+          }
+        },
+        {
+          "client_id": "994872271466-qlifcbf8qe79aehq650ssa43vk2fcqns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfd4BDKcKbNqRAip0QT_ydj0IrT7vyn7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994872271466-qlifcbf8qe79aehq650ssa43vk2fcqns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
